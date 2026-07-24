@@ -1,4 +1,5 @@
 # 🎮 Tic Tac Toe Game
+Live preview:https://ayushman013-amp.github.io/Tic-Tac-Toe-game/
 
 A modern and interactive **Tic Tac Toe** game built using **HTML5, CSS3, and JavaScript (ES6)**. This project demonstrates core front-end development concepts such as **DOM manipulation, event handling, game state management, conditional logic, and responsive UI design**. The application delivers a smooth and engaging user experience while showcasing clean code organization and fundamental JavaScript programming skills.
 
